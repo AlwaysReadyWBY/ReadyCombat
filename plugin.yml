@@ -1,0 +1,14 @@
+﻿name: ReadyCombat
+main: com.github.alwaysreadywby.readycombat.ReadyCombat
+version: 1.0.1
+author: AlwaysReadyWBY
+
+depend:
+- ReadyCore
+softdepend:
+- PlaceholderAPI
+
+commands:
+  rcombat:
+  readycombat:
+  
